@@ -3,7 +3,8 @@
 - 🌱 Meu nome é Gabriel e tenho 24 anos.
 - 💡 Atualmente estou cursando a graduação em Sistemas de Informação.
 - ✨ Aluno da Alura.
-- 🧩 Estudando focado no back-end, JAVA e Javascript especificamente.
+- 🧩 Estudando focado no back-end <JAVA>.
+- 💼 Estagiário no setor de Operações de Tecnologia do Sicoob Maxicrédito.
 <br>
 
 <div>
