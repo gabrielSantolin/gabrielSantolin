@@ -1,10 +1,8 @@
 ### Fala pessoal 👋
 
-- 🌱 Meu nome é Gabriel e tenho 24 anos.
+- 🌱 Meu nome é Gabriel e tenho 25 anos.
 - 💡 Atualmente estou cursando a graduação em Sistemas de Informação.
-- ✨ Aluno da Alura.
-- 🧩 Estudando focado no back-end <JAVA>.
-- 💼 Estagiário no setor de Operações de Tecnologia do Sicoob Maxicrédito.
+- 💼 Assistente de TI - Sicoob Maxicrédito.
 <br>
 
 <div>
